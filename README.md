@@ -88,6 +88,14 @@ As a result:
 - Design rule practices are incomplete
 
 ---
+![Top view](assets/image1.png)
+---
+![Bottom view](assets/image2.png)
+---
+![Side view](assets/image3.png)
+---
+![PCB](assets/pcb.png)
+---
 
 ## Warning
 

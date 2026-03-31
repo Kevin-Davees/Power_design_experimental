@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "WP-SHFU")(type "KiCad")(uri "${KIPRJMOD}/WP-SHFU/WP-SHFU.kicad_sym")(options "")(descr ""))
+)
